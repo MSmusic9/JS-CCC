@@ -8,4 +8,4 @@ Here's all modules:
 
 # Why CCC? 
 
-Because Cpl.js - best choose to make difficult animations, and Bar.js - best choose to make interesting games and a little bit work in 3D!
+Because Cpl.js - a good module to make difficult animations, and Bar.js - best choose to make interesting games and a little bit work in 3D!
